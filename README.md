@@ -2,7 +2,7 @@
 
 I'm an undergraduate student from China, interested in graphic and type theory.
 
-It is glad to reach amazing people and create some interesting project.
+It is glad to reach amazing people and create some interesting projects.
 
 - 🔭 I’m currently working on a lot of little project...
 - 🌱 I’m currently learning Computer Graphics & Type theory…
@@ -39,7 +39,7 @@ It is glad to reach amazing people and create some interesting project.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
-Feel free to create [issuse](https://github.com/DarcJC/DarcJC/issues).
+Feel free to create [issuse](https://github.com/DarcJC/DarcJC/issues) to ask me any questions.
 
 <!--
 **DarcJC/DarcJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
