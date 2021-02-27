@@ -39,7 +39,8 @@ It is glad to reach amazing people and create some interesting projects.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
-Feel free to create [issuse](https://github.com/DarcJC/DarcJC/issues) to ask me any questions.
+
+Feel free to create [issuse](https://github.com/DarcJC/DarcJC/issues) if you want to ask me any questions.
 
 <!--
 **DarcJC/DarcJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
