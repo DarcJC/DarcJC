@@ -43,6 +43,9 @@ It is glad to reach amazing people and create some interesting projects.
 
 Feel free to create [issuse](https://github.com/DarcJC/DarcJC/issues) if you want to ask me any questions.
 
+![DarcJC's github stats](https://github-readme-stats.vercel.app/api?username=DarcJC)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarcJC&layout=compact)
+
 <!--
 **DarcJC/DarcJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
