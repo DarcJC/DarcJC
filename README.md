@@ -1,4 +1,4 @@
-### Hi there , I am [DarcJC](https://blog.darc.icu/).👋
+### Hi there , I am [DarcJC](https://darc.pro/).👋
 
 I'm an undergraduate student from China, interested in graphic and type theory.
 
