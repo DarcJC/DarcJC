@@ -1,6 +1,6 @@
 ### Hi there , I am [DarcJC](https://darc.pro/).👋
 
-I'm an undergraduate student from China, interested in graphic and type theory.
+I'm an ~~undergraduate student~~ ? from China, interested in graphic and type theory.
 
 It is glad to reach amazing people and create some interesting projects.
 
